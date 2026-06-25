@@ -1,0 +1,28 @@
+{
+  "name": "ecocampus-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.0",
+    "recharts": "^2.7.3",
+    "lucide-react": "^0.263.1",
+    "react-hot-toast": "^2.4.1",
+    "axios": "^1.6.0",
+    "date-fns": "^2.30.0",
+    "jspdf": "^2.5.1",
+    "xlsx": "^0.18.5",
+    "@tanstack/react-query": "^5.0.0",
+    "framer-motion": "^10.16.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.4.0"
+  }
+}
